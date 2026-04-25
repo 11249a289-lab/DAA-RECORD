@@ -1,0 +1,8 @@
+INTPUT:
+
+Enter n: 3
+Recursive Fibonacci: 2
+Iterative Fibonacci: 2
+
+
+=== Code Execution Successful ===
