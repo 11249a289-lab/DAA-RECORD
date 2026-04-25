@@ -1,0 +1,11 @@
+OUTPUT:
+
+Enter number of vertices: 2
+Enter adjacency matrix:
+11 22 
+22 
+33
+Enter source vertex: 5
+Shortest distances:
+5 -> 0 = 22
+5 -> 1 = 0
