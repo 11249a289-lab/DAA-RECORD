@@ -1,0 +1,16 @@
+INPUT:
+
+Enter number of vertices: 3
+Enter adjacency matrix:
+2
+4
+3
+2
+2
+55
+55
+55
+66
+Edges in MST:
+Edge cost: 3
+Edge cost: 4
