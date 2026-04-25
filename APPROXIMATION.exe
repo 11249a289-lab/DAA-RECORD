@@ -1,0 +1,8 @@
+OUTPUT:
+
+Enter number of vertices: 2
+Enter adjacency matrix:
+1 2 
+3 4
+Vertex Cover:
+0 1
