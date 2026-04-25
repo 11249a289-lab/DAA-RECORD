@@ -1,0 +1,11 @@
+OUTPUT:
+
+Enter number of items: 3
+Enter bin capacity: 50
+Enter size of item 1: 5
+Enter size of item 2: 3
+Enter size of item 3: 9
+Remaining space in bins:
+Bin 1: 33.00
+Bin 2: 50.00
+Bin 3: 50.00
